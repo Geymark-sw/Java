@@ -7,6 +7,8 @@ public class Primo {
 		System.out.println("Oje como va");
 		
 		
+		
+		
 	}
 
 }
