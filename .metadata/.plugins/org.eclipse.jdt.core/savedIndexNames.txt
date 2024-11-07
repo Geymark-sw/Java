@@ -1,10 +1,10 @@
-INDEX VERSION 1.134+/home/user/Scrivania/Gey FullStack/VSCodeProjects/Java/.metadata/.plugins/org.eclipse.jdt.core
-1213521969.index
-4193324981.index
-1450514258.index
-3815430311.index
-4180612915.index
-1789387819.index
-1865797976.index
-1063528647.index
-3852764988.index
+INDEX VERSION 1.134+C:\Users\3mm4n\Desktop\ITS - FullStack\Java\.metadata\.plugins\org.eclipse.jdt.core
+3229319628.index
+2099583696.index
+2571370945.index
+955009768.index
+2303305068.index
+963910669.index
+1044160675.index
+2197933653.index
+2315833853.index
