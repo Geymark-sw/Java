@@ -7,7 +7,7 @@ public class Util {
 	private static Random rng = new Random();
 	private final static String alfabeto = "abcdefghijklmnopqrstuvwxyz";
 	private final static String digit = "0123456789";
-	private final static String simboli = "-_.:!?|$%";
+	private final static String simboli = "-_.:,!?|$%";
 	
 	
 	public static String GetRandomAuthProto() {
